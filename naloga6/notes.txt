@@ -1,0 +1,5 @@
+Informacije o datotekah z rezultati...
+OBLIKA: 'poimenovanje z zaporedno št. oddaje na strežniku'  -->  'ime text datoteke na tekmovalnem strežniku' & 'ime python datoteke z izvorno kodo'
+
+results_19.txt  -->  results_ones.txt & ismf_bias_ones.py
+results_20.txt  -->  results.txt & naloga6.py * (KONČNA ODDAJA) 
